@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marietta-a
 - 👀 I’m interested in learning new technologies
-- 🌱 switching to careers to DevOps 
+- 🌱 switching career to DevOps 
 - 💞️ I’m looking forward to collaborating with other developers so I can become better and also contribute to existing projects
 - 📫 How to reach me [msquad095@gmail.com]
 
