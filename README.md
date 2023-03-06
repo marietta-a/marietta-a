@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marietta-a
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning react js 
+- 🌱 switching to careers to DevOps 
 - 💞️ I’m looking forward to collaborating with other developers so I can become better and also contribute to existing projects
 - 📫 How to reach me [msquad095@gmail.com]
 
