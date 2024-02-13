@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @marietta-a
-- 👀 I’m interested in learning new technologies
-- 🌱 switching career to DevOps 
-- 💞️ I’m looking forward to collaborating with other developers so I can become better and also contribute to existing projects
-- 📫 How to reach me [msquad095@gmail.com]
+- 👀let's have fun coding
 
 <!---
 marietta-a/marietta-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
