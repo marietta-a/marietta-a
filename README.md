@@ -5,6 +5,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marietta-a&show_icons=true&theme=radical)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marietta-a&theme=react-dark)
+
 
 
 
