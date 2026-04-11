@@ -1,4 +1,4 @@
-- 👀 Is coding fun?
+- Still figuring it out!
   
 ![GitHub Profile](https://img.shields.io/badge/marietta-a?logo=github)
 
